@@ -1,0 +1,16 @@
+﻿  ServerSolution.cpp
+C:\Users\Asura\Documents\GitHub\Server-Client-Connection\ServerSolution\ServerSolution\ServerSolution.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_getnameinfo
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_htons
+ServerSolution.obj : error LNK2001: unresolved external symbol inet_ntop
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_recv
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_ntohs
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_socket
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_send
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_WSAStartup
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_listen
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_closesocket
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_bind
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_accept
+ServerSolution.obj : error LNK2001: unresolved external symbol __imp_WSACleanup
+C:\Users\Asura\Documents\GitHub\Server-Client-Connection\ServerSolution\x64\Release\ServerSolution.exe : fatal error LNK1120: 13 unresolved externals
